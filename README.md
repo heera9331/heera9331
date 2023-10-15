@@ -1,8 +1,8 @@
-</p><img src="https://komarev.com/ghpvc/?username=heera9331&label=Profile%20Visitors&color=0e75b6&style=flat" alt="AyeRaj" />
-
-
+</p><img src="https://komarev.com/ghpvc/?username=heera9331&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Heera Singh Lodhi" />
 
 # <p align="center"> Namaskar🙏🏻 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heera9331)](https://github.com/heera9331/github-readme-stats)
 
 Contact me for Freelance Project [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearence
 
