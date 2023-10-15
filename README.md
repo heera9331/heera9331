@@ -19,20 +19,16 @@ contribute my skills and enthusiasm to challenging projects.
 
 Leetcode - https://leetcode.com/heera9331/ <br>
 Geeksforgeeks - https://auth.geeksforgeeks.org/user/heera9331/ <br>
-Hackerrank - https://www.hackerrank.com/heera9331
-Github - https://github.com/heera9331/
+Hackerrank - https://www.hackerrank.com/heera9331<br>
+Github - https://github.com/heera9331/<br>
 
 ## Skills
 
-● Programming languages – C, Java, Python
-
-● Development side – HTML, CSS, JS, ReactJS, NodeJS, WordPress
-
-● Programming & Problem-solving – Data Structures and Algorithms, OOPs
-
-● Operating System – Windows, Ubuntu
-
-● DBMS – MongoDB
+● Programming languages – C, Java, Python <br>
+● Development side – HTML, CSS, JS, ReactJS, NodeJS, WordPress <br>
+● Programming & Problem-solving – Data Structures and Algorithms, OOPs <br>
+● Operating System – Windows, Ubuntu <br>
+● DBMS – MongoDB, MySQL <br>
 
 
 ## Academic Projects
