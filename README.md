@@ -2,7 +2,6 @@
 
 # <p align="center"> Namaskar🙏🏻 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heera9331)](https://github.com/heera9331/github-readme-stats)
 
 Contact me for Freelance Project [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearence
 
@@ -74,6 +73,10 @@ online platform | August 2023
 ● Programming <br>
 ● Cricket <br>
 
+
+
+
+[![Heera's GitHub stats](https://github-readme-stats.vercel.app/api?username=heera9331)](https://github.com/heera9331/github-readme-stats&show_icons=true&theme=dracula)
 
 <!--
 **heera9331/heera9331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
