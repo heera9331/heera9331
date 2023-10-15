@@ -2,9 +2,77 @@
 
 
 
-# <p align="center"> Welcome🙏🏻 
+# <p align="center"> Namaskar🙏🏻 
 
 Contact me for Freelance Project [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for any Doubt Clearence
+
+## Profile
+
+I am Heera Singh Lodhi, a passionate and dedicated fresher with a strong foundation in
+computer science and engineering. I have a keen interest in programming and possess solid
+knowledge of object-oriented programming, data structures and algorithms, C programming,
+Java, and Python. With a creative mindset and strong problem-solving skills, I strive to
+contribute my skills and enthusiasm to challenging projects.
+
+
+
+## Online Presence
+
+Leetcode - https://leetcode.com/heera9331/ <br>
+Hackerrank - https://www.hackerrank.com/heera9331
+
+## Skills
+
+● Programming languages – C, Java, Python
+
+● Development side – HTML, CSS, JS, ReactJS, NodeJS, WordPress
+
+● Programming & Problem-solving – Data Structures and Algorithms, OOPs
+
+● Operating System – Windows, Ubuntu
+
+● DBMS – MongoDB
+
+
+## Academic Projects
+
+### Project Name – LITC INDORE
+I have successfully completed this coaching website LITC Indore, currently hosted on server. <br>
+Link: - [LITC INDORE](https://litc-indore.netlify.app/) <br>
+Technology used – React <br>
+
+### Project Name – Portfolio Website
+Description – Unveiling my impressive portfolio website – interactive, responsive, and designed
+to showcase my talents. Experience the perfect fusion of creativity and technical prowess with
+HTML, CSS, and JS. Click now to embark on an engaging journey through my digital portfolio. 
+
+Technology Used – HTML, CSS, JavaScript 
+
+Link:- https://heera-singh.netlify.app/
+
+Source Code:- https://github.com/heera9331/portfolio
+
+## Interships
+1. Unacademy Educator Internship – Currently doing educator internship on Unacademy
+online platform | August 2023
+
+
+## Certifications
+
+● Program In Professional Edge - NIIT
+● MERN Full-Stack Developer | Udemy
+● PCAP: Programming Essentials in Python | Python Institute
+● Java Certified (Basic) | Hackerrank
+● Python Certified (Basic) | Hackerrank
+● DSA (Java) | Apna College
+
+
+## Hobbies
+
+● Teaching
+● Programming
+● Cricket
+
 
 <!--
 **heera9331/heera9331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
