@@ -4,7 +4,7 @@
 
 # <p align="center"> Namaskar🙏🏻 
 
-Contact me for Freelance Project [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for any Doubt Clearence
+Contact me for Freelance Project [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearence
 
 ## Profile
 
