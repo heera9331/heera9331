@@ -19,6 +19,7 @@ contribute my skills and enthusiasm to challenging projects.
 ## Online Presence
 
 Leetcode - https://leetcode.com/heera9331/ <br>
+Geeksforgeeks - https://auth.geeksforgeeks.org/user/heera9331/ <br>
 Hackerrank - https://www.hackerrank.com/heera9331
 
 ## Skills
