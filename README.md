@@ -60,19 +60,19 @@ online platform | August 2023
 
 ## Certifications
 
-● Program In Professional Edge - NIIT
-● MERN Full-Stack Developer | Udemy
-● PCAP: Programming Essentials in Python | Python Institute
-● Java Certified (Basic) | Hackerrank
-● Python Certified (Basic) | Hackerrank
-● DSA (Java) | Apna College
+● Program In Professional Edge - NIIT <br>
+● MERN Full-Stack Developer | Udemy <br>
+● PCAP: Programming Essentials in Python | Python Institute <br>
+● Java Certified (Basic) | Hackerrank <br>
+● Python Certified (Basic) | Hackerrank <br>
+● DSA (Java) | Apna College <br>
 
 
 ## Hobbies
 
-● Teaching
-● Programming
-● Cricket
+● Teaching <br>
+● Programming <br>
+● Cricket <br>
 
 
 <!--
