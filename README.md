@@ -33,9 +33,14 @@ Github - https://github.com/heera9331/<br>
 
 ## Academic Projects
 
+### Project Name – COLLAGE COUNSELING SYSTEM 
+Successfully the design and development of a MERN Stack 'college counselling', web application.  <br>
+Link: - [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling) <br>
+Technology used – ReactJS, NodeJS, ExpressJS, MongoDB <br>
+
 ### Project Name – LITC INDORE
 I have successfully completed this coaching website LITC Indore, currently hosted on server. <br>
-Link: - [LITC INDORE](https://litc-indore.netlify.app/) <br>
+Source code - [LITC INDORE](https://litc-indore.netlify.app) <br>
 Technology used – React <br>
 
 ### Project Name – Portfolio Website
