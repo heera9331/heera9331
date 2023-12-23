@@ -1,6 +1,6 @@
 </p><img src="https://komarev.com/ghpvc/?username=heera9331&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Heera Singh Lodhi" />
 
-# <p align="center"> Namaskar🙏🏻 
+# <p align="center"> Welcome 🙏🏻 
 
 
 Contact me for Freelance Project [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearence
