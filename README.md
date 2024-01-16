@@ -13,8 +13,6 @@ knowledge of object-oriented programming, data structures and algorithms, C prog
 Java, and Python. With a creative mindset and strong problem-solving skills, I strive to
 contribute my skills and enthusiasm to challenging projects.
 
-
-
 ## Online Presence
 
 Leetcode - https://leetcode.com/heera9331/ <br>
@@ -61,19 +59,19 @@ online platform | August 2023
 
 ## Certifications
 
-● Program In Professional Edge - NIIT <br>
-● MERN Full-Stack Developer | Udemy <br>
-● PCAP: Programming Essentials in Python | Python Institute <br>
-● Java Certified (Basic) | Hackerrank <br>
-● Python Certified (Basic) | Hackerrank <br>
-● DSA (Java) | Apna College <br>
+- Program In Professional Edge - NIIT <br>
+- MERN Full-Stack Developer | Udemy <br>
+- PCAP: Programming Essentials in Python | Python Institute <br>
+- Java Certified (Basic) | Hackerrank <br>
+- Python Certified (Basic) | Hackerrank <br>
+- DSA (Java) | Apna College <br>
 
 
 ## Hobbies
 
-● Teaching <br>
-● Programming <br>
-● Cricket <br>
+- Teaching <br>
+- Programming <br>
+- Cricket <br>
 
 
 
