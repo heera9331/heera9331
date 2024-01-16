@@ -24,18 +24,18 @@ Github - https://github.com/heera9331/<br>
 
 ## Skills
 
-● Programming languages – C, Java, Python <br>
-● Development side – HTML, CSS, JS, ReactJS, NodeJS, WordPress <br>
-● Programming & Problem-solving – Data Structures and Algorithms, OOPs <br>
-● Operating System – Windows, Ubuntu <br>
-● DBMS – MongoDB, MySQL <br>
-
+- Programming languages – C, C++, Java, Python <br>
+- Development side – HTML, CSS, JS, ReactJS, NodeJS, WordPress <br>
+- Programming & Problem-solving – Data Structures and Algorithms, OOPs, POPs <br>
+- Operating System – Windows, Ubuntu <br>
+- DBMS – MongoDB, MySQL <br>
+- Software IDE/Tools – VS-Code, Visual Studio 2023, Word, PowerPoint <br>
 
 ## Academic Projects
 
 ### Project Name – COLLAGE COUNSELING SYSTEM 
 Successfully the design and development of a MERN Stack 'college counselling', web application.  <br>
-Link: - [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling) <br>
+Source Code Link: - [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling) <br>
 Technology used – ReactJS, NodeJS, ExpressJS, MongoDB <br>
 
 ### Project Name – LITC INDORE
