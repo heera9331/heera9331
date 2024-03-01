@@ -65,6 +65,7 @@ online platform | August 2023
 - Java Certified (Basic) | Hackerrank <br>
 - Python Certified (Basic) | Hackerrank <br>
 - DSA (Java) | Apna College <br>
+- Web development by prepleaf by masai
 
 
 ## Hobbies
