@@ -36,10 +36,7 @@ Successfully the design and development of a MERN Stack 'college counselling', w
 Source Code Link: - [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling) <br>
 Technology used – ReactJS, NodeJS, ExpressJS, MongoDB <br>
 
-### Project Name – LITC INDORE
-I have successfully completed this coaching website LITC Indore, currently hosted on server. <br>
-Source code - [LITC INDORE](https://litc-indore.netlify.app) <br>
-Technology used – React <br>
+
 
 ### Project Name – Portfolio Website
 Description – Unveiling my impressive portfolio website – interactive, responsive, and designed
@@ -51,6 +48,11 @@ Technology Used – HTML, CSS, JavaScript
 Link:- https://heera-singh.netlify.app/
 
 Source Code:- https://github.com/heera9331/portfolio
+
+### Project Name – Sagar Services
+I have successfully completed this coaching website sagar services, currently hosted on server. <br>
+Live link - [Sagar-Services](https://imec.cd6.in/sagar-services/) <br>
+Technology used – PHP, MySQL, HTML, CSS, JS
 
 ## Interships
 1. Unacademy Educator Internship – Currently doing educator internship on Unacademy
