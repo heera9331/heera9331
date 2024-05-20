@@ -45,9 +45,14 @@ HTML, CSS, and JS. Click now to embark on an engaging journey through my digital
 
 Technology Used – HTML, CSS, JavaScript 
 
-Link:- https://heera-singh.netlify.app/
+Link:- [View Portfolio](https://edevhindi.com/portfolio)
 
 Source Code:- https://github.com/heera9331/portfolio
+
+### Project Name – Edevhindi
+Designed and developed a nice looking and responsive wordpress blogging website, this website provides programming and computer related knowledge. <br>
+Live link - [edevhindi](https://edevhindi.com/) <br>
+Technology used – WordPress
 
 ### Project Name – Sagar Services
 I have successfully completed this coaching website sagar services, currently hosted on server. <br>
