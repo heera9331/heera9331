@@ -2,10 +2,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heera9331&theme=onedark)
 
-
-# <p align="center"> Welcome 🙏🏻 
-
-
 Contact me for Freelance Project [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearence
 
 ## Profile
