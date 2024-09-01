@@ -1,5 +1,8 @@
 </p><img src="https://komarev.com/ghpvc/?username=heera9331&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Heera Singh Lodhi" />
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heera9331&theme=onedark)
+
+
 # <p align="center"> Welcome 🙏🏻 
 
 
