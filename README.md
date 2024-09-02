@@ -2,88 +2,79 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heera9331&theme=onedark)
 
-Contact me for Freelance Project [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearence
+Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearance
 
 ## Profile
 
-I am Heera Singh Lodhi, a passionate and dedicated fresher with a strong foundation in
-computer science and engineering. I have a keen interest in programming and possess solid
-knowledge of object-oriented programming, data structures and algorithms, C programming,
-Java, and Python. With a creative mindset and strong problem-solving skills, I strive to
-contribute my skills and enthusiasm to challenging projects.
+I am Heera Singh Lodhi, a passionate and dedicated web developer with a strong foundation in computer science and engineering. I have completed a one-month internship in web development at Madquick PVT LTD, where I received an offer letter. With 4 months of experience in web development, I have successfully completed projects involving WordPress, PHP, theme and plugin development, as well as full-stack projects using ReactJS, NodeJS, and Next.js. I am eager to contribute my skills and enthusiasm to challenging projects.
 
 ## Online Presence
 
-Leetcode - https://leetcode.com/heera9331/ <br>
-Geeksforgeeks - https://auth.geeksforgeeks.org/user/heera9331/ <br>
-Hackerrank - https://www.hackerrank.com/heera9331<br>
-Github - https://github.com/heera9331/<br>
+- Leetcode: [leetcode.com/heera9331](https://leetcode.com/heera9331/)
+- GeeksforGeeks: [auth.geeksforgeeks.org/user/heera9331](https://auth.geeksforgeeks.org/user/heera9331/)
+- HackerRank: [hackerrank.com/heera9331](https://www.hackerrank.com/heera9331)
+- GitHub: [github.com/heera9331](https://github.com/heera9331/)
 
 ## Skills
 
-- Programming languages – C, C++, Java, Python <br>
-- Development side – HTML, CSS, JS, ReactJS, NodeJS, WordPress <br>
-- Programming & Problem-solving – Data Structures and Algorithms, OOPs, POPs <br>
-- Operating System – Windows, Ubuntu <br>
-- DBMS – MongoDB, MySQL <br>
-- Software IDE/Tools – VS-Code, Visual Studio 2023, Word, PowerPoint <br>
+- **Programming Languages:** C, C++, Java, Python
+- **Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, WordPress, Next.js
+- **Programming & Problem-solving:** Data Structures and Algorithms, OOPs, POPs
+- **Operating Systems:** Windows, Ubuntu
+- **Databases:** MongoDB, MySQL
+- **Software IDE/Tools:** VS Code, Visual Studio 2023, Word, PowerPoint
 
-## Academic Projects
+## Experience
 
-### Project Name – COLLAGE COUNSELING SYSTEM 
-Successfully the design and development of a MERN Stack 'college counselling', web application.  <br>
-Source Code Link: - [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling) <br>
-Technology used – ReactJS, NodeJS, ExpressJS, MongoDB <br>
+### Madquick PVT LTD
+- **Position:** Web Development Intern
+- **Duration:** 1 Month
+- **Achievements:** Successfully completed the internship and received an offer letter.
 
+## Projects
 
+### College Counseling System
+- **Description:** Designed and developed a MERN Stack 'college counseling' web application.
+- **Technology Used:** ReactJS, NodeJS, ExpressJS, MongoDB
+- **Source Code:** [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling)
 
-### Project Name – Portfolio Website
-Description – Unveiling my impressive portfolio website – interactive, responsive, and designed
-to showcase my talents. Experience the perfect fusion of creativity and technical prowess with
-HTML, CSS, and JS. Click now to embark on an engaging journey through my digital portfolio. 
+### Portfolio Website
+- **Description:** Developed an interactive and responsive portfolio website showcasing my talents. Built with HTML, CSS, and JavaScript.
+- **Technology Used:** HTML, CSS, JavaScript
+- **Live Link:** [View Portfolio](https://edevhindi.com/portfolio)
+- **Source Code:** [Portfolio Source Code](https://github.com/heera9331/portfolio)
 
-Technology Used – HTML, CSS, JavaScript 
+### Edevhindi
+- **Description:** Designed and developed a responsive WordPress blogging website providing programming and computer-related knowledge.
+- **Technology Used:** WordPress
+- **Live Link:** [edevhindi](https://edevhindi.com/)
 
-Link:- [View Portfolio](https://edevhindi.com/portfolio)
+### Sagar Services
+- **Description:** Completed a coaching website currently hosted on a server.
+- **Technology Used:** PHP, MySQL, HTML, CSS, JS
+- **Live Link:** [Sagar Services](https://imec.cd6.in/sagar-services/)
 
-Source Code:- https://github.com/heera9331/portfolio
+## Internships
 
-### Project Name – Edevhindi
-Designed and developed a nice looking and responsive wordpress blogging website, this website provides programming and computer related knowledge. <br>
-Live link - [edevhindi](https://edevhindi.com/) <br>
-Technology used – WordPress
-
-### Project Name – Sagar Services
-I have successfully completed this coaching website sagar services, currently hosted on server. <br>
-Live link - [Sagar-Services](https://imec.cd6.in/sagar-services/) <br>
-Technology used – PHP, MySQL, HTML, CSS, JS
-
-## Interships
-1. Unacademy Educator Internship – Currently doing educator internship on Unacademy
-online platform | August 2023
-
+1. **Unacademy Educator Internship** – Currently an educator intern on the Unacademy online platform | August 2023
 
 ## Certifications
 
-- Program In Professional Edge - NIIT <br>
-- MERN Full-Stack Developer | Udemy <br>
-- PCAP: Programming Essentials in Python | Python Institute <br>
-- Java Certified (Basic) | Hackerrank <br>
-- Python Certified (Basic) | Hackerrank <br>
-- DSA (Java) | Apna College <br>
-- Web development by prepleaf by masai
-
+- Program In Professional Edge - NIIT
+- MERN Full-Stack Developer | Udemy
+- PCAP: Programming Essentials in Python | Python Institute
+- Java Certified (Basic) | HackerRank
+- Python Certified (Basic) | HackerRank
+- DSA (Java) | Apna College
+- Web Development by Prepleaf by Masai
 
 ## Hobbies
 
-- Teaching <br>
-- Programming <br>
-- Cricket <br>
+- Teaching
+- Programming
+- Cricket
 
-
-
-
-[![Heera's GitHub stats](https://github-readme-stats.vercel.app/api?username=heera9331)](https://github.com/heera9331/github-readme-stats&show_icons=true&theme=dracula)
+[![Heera's GitHub stats](https://github-readme-stats.vercel.app/api?username=heera9331&show_icons=true&theme=dracula)](https://github.com/heera9331/github-readme-stats)
 
 <!--
 **heera9331/heera9331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
