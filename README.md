@@ -38,6 +38,7 @@ I am Heera Singh Lodhi, a passionate and dedicated web developer with a strong f
 - **Description:** Designed and developed a MERN Stack 'college counseling' web application.
 - **Technology Used:** ReactJS, NodeJS, ExpressJS, MongoDB
 - **Source Code:** [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling)
+- **Live Link** [https://college-counselling-alpha.vercel.app/]
 
 ### Portfolio Website
 - **Description:** Developed an interactive and responsive portfolio website showcasing my talents. Built with HTML, CSS, and JavaScript.
