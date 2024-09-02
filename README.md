@@ -6,7 +6,7 @@ Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://w
 
 ## Profile
 
-I am Heera Singh Lodhi, a passionate and dedicated web developer with a strong foundation in computer science and engineering. I have completed a one-month internship in web development at Madquick PVT LTD, where I received an offer letter. With 4 months of experience in web development, I have successfully completed projects involving WordPress, PHP, theme and plugin development, as well as full-stack projects using ReactJS, NodeJS, and Next.js. I am eager to contribute my skills and enthusiasm to challenging projects.
+I am Heera Singh Lodhi, a passionate and dedicated web developer with a strong foundation in computer science and engineering. I have completed a one-month internship in web development at Madquick PVT LTD, where I received an offer letter. With 4 months of experience in web development, I have successfully completed projects involving WordPress theme and plugin development, including the "Madquick Notice" plugin addon, as well as full-stack projects using ReactJS, NodeJS, and Next.js. I also have experience with payment integration. I am eager to contribute my skills and enthusiasm to challenging projects.
 
 ## Online Presence
 
@@ -30,6 +30,7 @@ I am Heera Singh Lodhi, a passionate and dedicated web developer with a strong f
 - **Position:** Web Development Intern
 - **Duration:** 1 Month
 - **Achievements:** Successfully completed the internship and received an offer letter.
+- **Projects:** Developed WordPress themes and plugin addons, including "Madquick Notice."
 
 ## Projects
 
@@ -48,11 +49,6 @@ I am Heera Singh Lodhi, a passionate and dedicated web developer with a strong f
 - **Description:** Designed and developed a responsive WordPress blogging website providing programming and computer-related knowledge.
 - **Technology Used:** WordPress
 - **Live Link:** [edevhindi](https://edevhindi.com/)
-
-### Sagar Services
-- **Description:** Completed a coaching website currently hosted on a server.
-- **Technology Used:** PHP, MySQL, HTML, CSS, JS
-- **Live Link:** [Sagar Services](https://imec.cd6.in/sagar-services/)
 
 ## Internships
 
