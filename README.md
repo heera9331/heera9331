@@ -4,9 +4,58 @@
 
 Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearance
 
-## Profile
+## About
 
-I am Heera Singh Lodhi, a passionate and dedicated web developer with a strong foundation in computer science and engineering. I have completed a one-month internship in web development at Madquick PVT LTD, where I received an offer letter. With 4 months of experience in web development, I have successfully completed projects involving WordPress theme and plugin development, including the "Madquick Notice" plugin addon, as well as full-stack projects using ReactJS, NodeJS, and Next.js. I also have experience with payment integration. I am eager to contribute my skills and enthusiasm to challenging projects.
+✅ As a dedicated Web Developer with a B.Tech in Computer Science from Infinity Management & Engineering College, Sagar (MP), I bring a strong foundation in programming and web development. 
+
+My expertise includes:
+
+✅ Web Development: Proficient in WordPress theme and plugin development, and full-stack applications using ReactJS and Node.js.
+
+✅ Programming Skills: Solid knowledge of object-oriented programming, data structures, algorithms, and Java.
+
+✅ API Development & Integration: Experienced in designing and integrating APIs for enhanced functionality.
+
+✅ Technical Management: Skilled in payment integration, and managing hosting environments with WHM and WHMCS
+
+## Experience
+
+### MadQuick Pvt ltd- Web Development Company
+
+**Place -** Sagar, Madhya Pradesh, India · On-site
+**Profile -** Web Developer
+**Employment Type -** Full-Time
+**Date -** May 2024 - Present · 7 mos
+
+As a Web Developer at Madquick, I have been responsible for building and maintaining web solutions across various projects. 
+
+My role involves:
+
+**WordPress Development:** Creating custom themes and plugins, including the development of the 'Madquick Notice' plugin for seamless notice management.
+
+**Full-Stack Development:** Developing and maintaining full-stack applications using ReactJS, Node.js, and Next.js, ensuring high performance and scalability.
+
+**Frontend Development:** Crafting responsive and visually appealing interfaces using HTML, CSS, JavaScript, and Bootstrap, ensuring an optimized user experience across devices.
+
+**Backend Development:** Implementing server-side logic in Node.js and PHP, including database management and API integration for enhanced functionality.
+
+**Payment Integration:** Integrating secure and reliable payment gateways for WooCommerce and other platforms to provide seamless transaction experiences.
+
+**API Development & Integration:** Designing and integrating APIs to facilitate seamless communication between systems and enhance application capabilities.
+
+**WHM and WHMCS Management:** Managing web hosting infrastructure through WHM, and integrating WHMCS for automated billing and client management.
+
+**Collaboration:** Working closely with designers and senior developers to optimize website performance, troubleshoot issues, and deliver high-quality products.
+
+### Web Development Intern
+Internship
+**Date -** Apr 2024 - Apr 2024 · 1 mos
+As a Web Developer Intern at Madquick, I worked on multiple web development projects, focusing on WordPress theme and plugin development, as well as full-stack applications using ReactJS, NodeJS, and Next.js.
+
+- Implementing payment integrations and building responsive, user-friendly websites
+- Enhancing the functionality of WordPress-based websites with custom PHP scripts.
+- Utilizing HTML, CSS, JavaScript, and Bootstrap for frontend development.
+- Collaborating with senior developers to optimize and troubleshoot various projects.
 
 ## Online Presence
 
@@ -23,14 +72,6 @@ I am Heera Singh Lodhi, a passionate and dedicated web developer with a strong f
 - **Operating Systems:** Windows, Ubuntu
 - **Databases:** MongoDB, MySQL
 - **Software IDE/Tools:** VS Code, Visual Studio 2023, Word, PowerPoint
-
-## Experience
-
-### Madquick PVT LTD
-- **Position:** Web Development Intern
-- **Duration:** 1 Month
-- **Achievements:** Successfully completed the internship and received an offer letter.
-- **Projects:** Developed WordPress themes and plugin addons, including "Madquick Notice."
 
 ## Projects
 
