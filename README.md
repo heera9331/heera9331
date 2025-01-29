@@ -15,7 +15,7 @@
 
 Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearance
 
-## About
+## [About](#)
 
 ✅ As a dedicated Web Developer with a B.Tech in Computer Science from Infinity Management & Engineering College, Sagar (MP), I bring a strong foundation in programming and web development. 
 
@@ -31,16 +31,16 @@ Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://w
 
 ## 💼Experience
 
-### MadQuick Pvt ltd- Web Development Company
+### [MadQuick Pvt ltd- Web Development Company](https://madquick.in/)
 
-**Place -** Sagar, Madhya Pradesh, India · On-site
+**Place -** [Sagar, Madhya Pradesh](https://maps.app.goo.gl/YYPxEiTH2B3aiJou9), India · On-site
 **Profile -** Web Developer
 **Employment Type -** Full-Time
 **Date -** May 2024 - Present · 7 mos
 
 As a Web Developer at Madquick, I have been responsible for building and maintaining web solutions across various projects. 
 
-My role involves:
+### My role involves:
 
 **WordPress Development:** Creating custom themes and plugins, including the development of the 'Madquick Notice' plugin for seamless notice management.
 
@@ -62,7 +62,7 @@ My role involves:
 
 Internship
 **Date -** Apr 2024 - Apr 2024 · 1 mos
-As a Web Developer Intern at Madquick, I worked on multiple web development projects, focusing on WordPress theme and plugin development, as well as full-stack applications using ReactJS, NodeJS, and Next.js.
+As a Web Developer Intern at [Madquick](madquick.in), I worked on multiple web development projects, focusing on WordPress theme and plugin development, as well as full-stack applications using ReactJS, NodeJS, and Next.js.
 
 - Implementing payment integrations and building responsive, user-friendly websites
 - Enhancing the functionality of WordPress-based websites with custom PHP scripts.
@@ -87,19 +87,19 @@ As a Web Developer Intern at Madquick, I worked on multiple web development proj
 
 ## 👩‍💻 [Projects](https://github.com/heera9331/heera9331/tree/main/projects)
 
-### College Counseling System
+### [College Counseling System](https://college-counselling-alpha.vercel.app/)
 - **Description:** Designed and developed a MERN Stack 'college counseling' web application.
 - **Technology Used:** ReactJS, NodeJS, ExpressJS, MongoDB
 - **Source Code:** [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling)
 - **Live Link** [https://college-counselling-alpha.vercel.app/]
 
-### Portfolio Website
+### [Portfolio Website](https://edevhindi.com/portfolio)
 - **Description:** Developed an interactive and responsive portfolio website showcasing my talents. Built with HTML, CSS, and JavaScript.
 - **Technology Used:** HTML, CSS, JavaScript
 - **Live Link:** [View Portfolio](https://edevhindi.com/portfolio)
 - **Source Code:** [Portfolio Source Code](https://github.com/heera9331/portfolio)
 
-### Edevhindi
+### [Edevhindi](https://edevhindi.com)
 - **Description:** Designed and developed a responsive WordPress blogging website providing programming and computer-related knowledge.
 - **Technology Used:** WordPress
 - **Live Link:** [edevhindi](https://edevhindi.com/)
@@ -119,13 +119,11 @@ As a Web Developer Intern at Madquick, I worked on multiple web development proj
 
 ## 📝Certifications
 
-- Program In Professional Edge - NIIT
-- MERN Full-Stack Developer | Udemy
-- PCAP: Programming Essentials in Python | Python Institute
-- Java Certified (Basic) | HackerRank
-- Python Certified (Basic) | HackerRank
-- DSA (Java) | Apna College
-- Web Development by Prepleaf by Masai
+- [Program In Professional Edge - NIIT](https://drive.google.com/file/d/1OXeR5ak3QFk5Sj0jTMxkfrw6FFOYrJI4/view?usp=sharing)
+- [MERN Full-Stack Developer](https://drive.google.com/file/d/1Kr4jsPoR6a8ro0WJqpyvenLbOFicPueT/view?usp=sharing) | [Udemy](https://www.udemy.com/)
+- [PCAP: Programming Essentials in Python | Python Institute](https://drive.google.com/file/d/1LI2aZv77OsYg_cqiLdHCJv32PNmZ-n3L/view?usp=sharing)
+- [DSA (Java) | Apna College](https://drive.google.com/file/d/1Y-XMFusQlJzCuNPvEBYRr1UbURokUNB-/view?usp=sharing)
+- [Web Development by Prepleaf by Masai] (https://drive.google.com/file/d/1TLesnu_NLxPPMOcsH5YGAfBr5JsV1iQh/view?usp=sharing)
 
 ## Hobbies
 
