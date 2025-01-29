@@ -1,4 +1,4 @@
-# 📂 Projects Index
+# 📂 Index
 
 Welcome to my **Projects Repository**! Below is a categorized list of all my projects, including **custom development, WordPress plugins, payment integrations, deployment setups, and personal projects**.
 
@@ -41,14 +41,8 @@ A **WordPress-based educational CMS**.
 - **📅 Duration:** 01-10-2022 → 01-12-2023  
 - **🔍 Focus:** Educational content & SEO  
 
----
-
-## 🍽️ Business & Client Projects
-
 ### 🍽️ [Shree Sagar Restaurants and Cafe](../projects/personal-projects.md)
 A **restaurant website** with **menu display, reservations, and online presence optimization**.
-
----
 
 ## 🧩 Code Resources
 
