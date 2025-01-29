@@ -1,6 +1,17 @@
 </p><img src="https://komarev.com/ghpvc/?username=heera9331&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Heera Singh Lodhi" />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heera9331&theme=onedark)
+<h1 align="center">Heera Singh Lodhi</h1>
+
+<div style="display: flex; justify-content: center;">
+    <p align="center">
+      <a href="[https://sharats.dev/about](https://edevhindi.com/portfolio)">
+          <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
+      </a>
+      <a href="https://www.linkedin.com/in/heera9331/">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+    </p>
+</div>
 
 Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearance
 
@@ -8,7 +19,7 @@ Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://w
 
 ✅ As a dedicated Web Developer with a B.Tech in Computer Science from Infinity Management & Engineering College, Sagar (MP), I bring a strong foundation in programming and web development. 
 
-My expertise includes:
+**My expertise includes:**
 
 ✅ Web Development: Proficient in WordPress theme and plugin development, and full-stack applications using ReactJS and Node.js.
 
@@ -18,7 +29,7 @@ My expertise includes:
 
 ✅ Technical Management: Skilled in payment integration, and managing hosting environments with WHM and WHMCS
 
-## Experience
+## 💼Experience
 
 ### MadQuick Pvt ltd- Web Development Company
 
@@ -74,6 +85,7 @@ As a Web Developer Intern at Madquick, I worked on multiple web development proj
 - **Databases:** MongoDB, MySQL
 - **Software IDE/Tools:** VS Code, Visual Studio 2023, Word, PowerPoint
 
+## 👩‍💻Projects
 ## [Projects](https://github.com/heera9331/tree/main/projects)
 
 ### College Counseling System
@@ -97,7 +109,16 @@ As a Web Developer Intern at Madquick, I worked on multiple web development proj
 
 1. **Unacademy Educator Internship** – Currently an educator intern on the Unacademy online platform | August 2023
 
-## Certifications
+
+## 🎓Academics
+
+| Institution | Degree | Year | CGPA/Percentage |
+|-------------|--------|------|-----------------|
+| [Infinity Management & Engineering College Sagar](https://infinitycollege.in/) | B.Tech, Computer Science and Engineering | 2020-2024 | 8.5 CGPA |
+| [JAIN MULTI. HIGH. SEC. SAGAR MP](https://g.co/kgs/fiuHzty) | XII (PCM) | 2019–2020 | 84% |
+| [Govt. High. Sec. S. Bela-Purwa](https://maps.app.goo.gl/qm2tV6oUrkUBZxVC7) | X | 2018-19 | 77% |
+
+## 📝Certifications
 
 - Program In Professional Edge - NIIT
 - MERN Full-Stack Developer | Udemy
