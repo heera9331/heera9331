@@ -48,6 +48,7 @@ My role involves:
 **Collaboration:** Working closely with designers and senior developers to optimize website performance, troubleshoot issues, and deliver high-quality products.
 
 ### Web Development Intern
+
 Internship
 **Date -** Apr 2024 - Apr 2024 · 1 mos
 As a Web Developer Intern at Madquick, I worked on multiple web development projects, focusing on WordPress theme and plugin development, as well as full-stack applications using ReactJS, NodeJS, and Next.js.
@@ -73,7 +74,7 @@ As a Web Developer Intern at Madquick, I worked on multiple web development proj
 - **Databases:** MongoDB, MySQL
 - **Software IDE/Tools:** VS Code, Visual Studio 2023, Word, PowerPoint
 
-## Projects
+## [Projects](https://github.com/heera9331/tree/main/projects)
 
 ### College Counseling System
 - **Description:** Designed and developed a MERN Stack 'college counseling' web application.
