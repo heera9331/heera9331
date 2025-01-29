@@ -85,8 +85,7 @@ As a Web Developer Intern at Madquick, I worked on multiple web development proj
 - **Databases:** MongoDB, MySQL
 - **Software IDE/Tools:** VS Code, Visual Studio 2023, Word, PowerPoint
 
-## 👩‍💻Projects
-## [Projects](https://github.com/heera9331/tree/main/projects)
+## 👩‍💻 [Projects](https://github.com/heera9331/heera9331/tree/main/projects)
 
 ### College Counseling System
 - **Description:** Designed and developed a MERN Stack 'college counseling' web application.
