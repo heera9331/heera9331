@@ -17,17 +17,17 @@ Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://w
 
 ## [About](#)
 
-✅ As a dedicated Web Developer with a B.Tech in Computer Science from Infinity Management & Engineering College, Sagar (MP), I bring a strong foundation in programming and web development. 
+✅ As a dedicated Web Developer with a B.Tech in Computer Science from [Infinity Management & Engineering College, Sagar (MP)](https://infinitycollege.in/), I bring a strong foundation in programming and web development. 
 
 **My expertise includes:**
 
-✅ Web Development: Proficient in WordPress theme and plugin development, and full-stack applications using ReactJS and Node.js.
+✅ Web Development: Proficient in [WordPress](http://wordpress.org/) theme and plugin development, and full-stack applications using ReactJS and Node.js.
 
 ✅ Programming Skills: Solid knowledge of object-oriented programming, data structures, algorithms, and Java.
 
 ✅ API Development & Integration: Experienced in designing and integrating APIs for enhanced functionality.
 
-✅ Technical Management: Skilled in payment integration, and managing hosting environments with WHM and WHMCS
+✅ Technical Management: Skilled in payment integration, and managing hosting environments with [WHM](https://cpanel.net/products/cpanel-whm-features/) and WHMCS
 
 ## 💼Experience
 
@@ -44,17 +44,17 @@ As a Web Developer at Madquick, I have been responsible for building and maintai
 
 **WordPress Development:** Creating custom themes and plugins, including the development of the 'Madquick Notice' plugin for seamless notice management.
 
-**Full-Stack Development:** Developing and maintaining full-stack applications using ReactJS, Node.js, and Next.js, ensuring high performance and scalability.
+**Full-Stack Development:** Developing and maintaining full-stack applications using [ReactJS](https://react.dev), [Node.js](https://nodejs.org), and [Next.js](https://nextjs.org), ensuring high performance and scalability.
 
 **Frontend Development:** Crafting responsive and visually appealing interfaces using HTML, CSS, JavaScript, and Bootstrap, ensuring an optimized user experience across devices.
 
-**Backend Development:** Implementing server-side logic in Node.js and PHP, including database management and API integration for enhanced functionality.
+**Backend Development:** Implementing server-side logic in [Node.js](https://nodejs.org) and PHP, including database management and API integration for enhanced functionality.
 
-**Payment Integration:** Integrating secure and reliable payment gateways for WooCommerce and other platforms to provide seamless transaction experiences.
+**Payment Integration:** Integrating secure and reliable payment gateways for [WooCommerce](https://woocommerce.com/) and other platforms to provide seamless transaction experiences.
 
 **API Development & Integration:** Designing and integrating APIs to facilitate seamless communication between systems and enhance application capabilities.
 
-**WHM and WHMCS Management:** Managing web hosting infrastructure through WHM, and integrating WHMCS for automated billing and client management.
+**WHM and WHMCS Management:** Managing web hosting infrastructure through [WHM](https://cpanel.net/products/cpanel-whm-features/), and integrating [WHMCS](https://cpanel.net/products/cpanel-whm-features/) for automated billing and client management.
 
 **Collaboration:** Working closely with designers and senior developers to optimize website performance, troubleshoot issues, and deliver high-quality products.
 
@@ -62,11 +62,11 @@ As a Web Developer at Madquick, I have been responsible for building and maintai
 
 Internship
 **Date -** Apr 2024 - Apr 2024 · 1 mos
-As a Web Developer Intern at [Madquick](madquick.in), I worked on multiple web development projects, focusing on WordPress theme and plugin development, as well as full-stack applications using ReactJS, NodeJS, and Next.js.
+As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multiple web development projects, focusing on [WordPress](http://wordpress.org/) theme and plugin development, as well as full-stack applications using [ReactJS](https://react.dev), [NodeJS](https://nodejs.org), and [Next.js](https://nextjs.org/).
 
 - Implementing payment integrations and building responsive, user-friendly websites
-- Enhancing the functionality of WordPress-based websites with custom PHP scripts.
-- Utilizing HTML, CSS, JavaScript, and Bootstrap for frontend development.
+- Enhancing the functionality of WordPress-based websites with custom [PHP](https://www.php.net/) scripts.
+- Utilizing HTML, CSS, JavaScript, and [Bootstrap](https://nextjs.org/) for frontend development.
 - Collaborating with senior developers to optimize and troubleshoot various projects.
 
 ## Online Presence
@@ -79,7 +79,7 @@ As a Web Developer Intern at [Madquick](madquick.in), I worked on multiple web d
 ## Skills
 
 - **Programming Languages:** C, C++, Java, Python
-- **Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, WordPress, Next.js
+- **Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, [WordPress](http://wordpress.org/), Next.js
 - **Programming & Problem-solving:** Data Structures and Algorithms, OOPs, POPs
 - **Operating Systems:** Windows, Ubuntu
 - **Databases:** MongoDB, MySQL
@@ -100,13 +100,15 @@ As a Web Developer Intern at [Madquick](madquick.in), I worked on multiple web d
 - **Source Code:** [Portfolio Source Code](https://github.com/heera9331/portfolio)
 
 ### [Edevhindi](https://edevhindi.com)
-- **Description:** Designed and developed a responsive WordPress blogging website providing programming and computer-related knowledge.
+- **Description:** Designed and developed a responsive [WordPress](http://wordpress.org/) blogging website providing programming and computer-related knowledge.
 - **Technology Used:** WordPress
 - **Live Link:** [edevhindi](https://edevhindi.com/)
 
 ## Internships
 
-1. **Unacademy Educator Internship** – Currently an educator intern on the Unacademy online platform | August 2023
+1. **Unacademy Educator Internship** – Currently an educator intern on the Unacademy online platform
+    
+    * **Duration** - August 2023 - Nov 2023
 
 
 ## 🎓Academics
@@ -123,7 +125,7 @@ As a Web Developer Intern at [Madquick](madquick.in), I worked on multiple web d
 - [MERN Full-Stack Developer](https://drive.google.com/file/d/1Kr4jsPoR6a8ro0WJqpyvenLbOFicPueT/view?usp=sharing) | [Udemy](https://www.udemy.com/)
 - [PCAP: Programming Essentials in Python | Python Institute](https://drive.google.com/file/d/1LI2aZv77OsYg_cqiLdHCJv32PNmZ-n3L/view?usp=sharing)
 - [DSA (Java) | Apna College](https://drive.google.com/file/d/1Y-XMFusQlJzCuNPvEBYRr1UbURokUNB-/view?usp=sharing)
-- [Web Development by Prepleaf by Masai] (https://drive.google.com/file/d/1TLesnu_NLxPPMOcsH5YGAfBr5JsV1iQh/view?usp=sharing)
+- [Web Development by Prepleaf by Masai](https://drive.google.com/file/d/1TLesnu_NLxPPMOcsH5YGAfBr5JsV1iQh/view?usp=sharing)
 
 ## Hobbies
 
