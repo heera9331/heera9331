@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project was focused on implementing a **flight ticket booking system** on a WordPress-based website. The client required a fully functional booking system, including **seat reservations** and **payment integration**.
+This project was focused on implementing a [**flight ticket booking system**](https://wordpress.org/plugins/bus-ticket-booking-with-seat-reservation/) on a WordPress-based website. The client required a fully functional booking system, including **seat reservations** and **payment integration**.
 
 ## 📅 Project Timeline
 
