@@ -17,7 +17,7 @@ Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://w
 
 ## [About](#)
 
-✅ As a dedicated Web Developer with a B.Tech in Computer Science from [Infinity Management & Engineering College, Sagar (MP)](https://infinitycollege.in/), I bring a strong foundation in programming and web development. 
+✅ As a dedicated Web Developer with a B.Tech in Computer Science from [Infinity Management & Engineering College, Sagar (MP)](https://infinitycollege.in/), I bring a strong foundation in programming and web development.
 
 **My expertise includes:**
 
@@ -38,7 +38,7 @@ Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://w
 **Employment Type -** Full-Time
 **Date -** May 2024 - Present · 7 mos
 
-As a Web Developer at Madquick, I have been responsible for building and maintaining web solutions across various projects. 
+As a Web Developer at Madquick, I have been responsible for building and maintaining web solutions across various projects.
 
 ### My role involves:
 
@@ -87,19 +87,34 @@ As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multip
 
 ## 👩‍💻 [Projects](https://github.com/heera9331/heera9331/tree/main/projects)
 
+### [Squirrel CRM](./projects/squirrel-crm.md)
+
+- **Description:** Squirrel CRM is a robust customer relationship management (CRM) system designed to streamline business workflows, improve customer interactions, and enhance team collaboration.
+- **Technology Used:** ReactJS, NodeJS, ExpressJS, MongoDB, S3 Bucket
+- **Source Code:** [View](#)
+- **Live Link** [view](#)
+- **Detailed view:** [Click](./projects/squirrel-crm.md)
+- **My Contributions:** As a Frontend Developer, I worked on:
+  - Building intuitive UI components using ReactJS.
+  - Seamless API integration to fetch and manage customer data.
+  - State management and UI optimizations for better performance.
+
 ### [College Counseling System](https://college-counselling-alpha.vercel.app/)
+
 - **Description:** Designed and developed a MERN Stack 'college counseling' web application.
 - **Technology Used:** ReactJS, NodeJS, ExpressJS, MongoDB
 - **Source Code:** [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling)
 - **Live Link** [https://college-counselling-alpha.vercel.app/]
 
 ### [Portfolio Website](https://edevhindi.com/portfolio)
+
 - **Description:** Developed an interactive and responsive portfolio website showcasing my talents. Built with HTML, CSS, and JavaScript.
 - **Technology Used:** HTML, CSS, JavaScript
 - **Live Link:** [View Portfolio](https://edevhindi.com/portfolio)
 - **Source Code:** [Portfolio Source Code](https://github.com/heera9331/portfolio)
 
 ### [Edevhindi](https://edevhindi.com)
+
 - **Description:** Designed and developed a responsive [WordPress](http://wordpress.org/) blogging website providing programming and computer-related knowledge.
 - **Technology Used:** WordPress
 - **Live Link:** [edevhindi](https://edevhindi.com/)
@@ -107,17 +122,16 @@ As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multip
 ## Internships
 
 1. **Unacademy Educator Internship** – Currently an educator intern on the Unacademy online platform
-    
-    * **Duration** - August 2023 - Nov 2023
 
+   - **Duration** - August 2023 - Nov 2023
 
 ## 🎓Academics
 
-| Institution | Degree | Year | CGPA/Percentage |
-|-------------|--------|------|-----------------|
-| [Infinity Management & Engineering College Sagar](https://infinitycollege.in/) | B.Tech, Computer Science and Engineering | 2020-2024 | 8.5 CGPA |
-| [JAIN MULTI. HIGH. SEC. SAGAR MP](https://g.co/kgs/fiuHzty) | XII (PCM) | 2019–2020 | 84% |
-| [Govt. High. Sec. S. Bela-Purwa](https://maps.app.goo.gl/qm2tV6oUrkUBZxVC7) | X | 2018-19 | 77% |
+| Institution                                                                    | Degree                                   | Year      | CGPA/Percentage |
+| ------------------------------------------------------------------------------ | ---------------------------------------- | --------- | --------------- |
+| [Infinity Management & Engineering College Sagar](https://infinitycollege.in/) | B.Tech, Computer Science and Engineering | 2020-2024 | 8.5 CGPA        |
+| [JAIN MULTI. HIGH. SEC. SAGAR MP](https://g.co/kgs/fiuHzty)                    | XII (PCM)                                | 2019–2020 | 84%             |
+| [Govt. High. Sec. S. Bela-Purwa](https://maps.app.goo.gl/qm2tV6oUrkUBZxVC7)    | X                                        | 2018-19   | 77%             |
 
 ## 📝Certifications
 
