@@ -98,4 +98,4 @@ Check out my [GitHub profile](https://github.com/heera9331) for **source codes a
 
 ## Contact
 
-- (Contact me)[mailto:heera9331@gmail.com]
+- [Contact me](mailto:heera9331@gmail.com) 
