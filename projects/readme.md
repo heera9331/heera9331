@@ -12,7 +12,7 @@ Welcome to my **Projects Repository**! Below is a categorized list of all my pro
   - [💳 Payment Integration](#-payment-integration)
   - [🖨️ Label Printing Automation](#-label-printing-automation)
 - [💡 Other Projects](#-other-projects)
-- [📬 Contact](##-contact)
+- [📬 Contact](#contact)
 
 ---
 
