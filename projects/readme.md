@@ -4,6 +4,18 @@ Welcome to my **Projects Repository**! Below is a categorized list of all my pro
 
 ---
 
+## 📑 Table of Contents
+
+- [🔥 Featured Projects](#-featured-projects)
+  - [🐿️ Squirrel CRM](#-squirrel-crm)
+  - [🛒 Custom Checkout for WooCommerce](#-custom-checkout-for-woocommerce)
+  - [💳 Payment Integration](#-payment-integration)
+  - [🖨️ Label Printing Automation](#-label-printing-automation)
+- [💡 Other Projects](#-other-projects)
+- [📬 Contact](##-contact)
+
+---
+
 ## 🔥 Featured Projects
 
 ### 🐿️ [Squirrel CRM](./squirrel-crm.md)
@@ -22,6 +34,14 @@ Custom **WooCommerce payment gateway plugins** for:
 - **KakaoPay**
 - **Pxha Pay (Andianalake)**
 - **3D HostPay**
+
+### 🖨️ [Label Printing Automation](../projects/label-printing-automation.md)
+
+An automated **label printing solution** that:
+- Links **zones** with **branches** and **specific printers**.
+- Automatically assigns a branch and printer information to new orders.
+- Integrates with the **PrintNode API** for seamless print requests.
+- Enhances PDF labels with complete order and printer information.
 
 ### 🚀 [Deployment & Server Setup](../projects/hosting-and-deployment.md)
 
@@ -74,3 +94,8 @@ Technical documentation, including **API guides, WordPress customization, and de
 ### 📌 Want to contribute or explore more?
 
 Check out my [GitHub profile](https://github.com/heera9331) for **source codes and updates**. 🚀
+
+
+## Contact
+
+- (Contact me)[mailto:heera9331@gmail.com]
