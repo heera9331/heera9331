@@ -99,6 +99,20 @@ As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multip
   - Seamless API integration to fetch and manage customer data.
   - State management and UI optimizations for better performance.
 
+### [Temp Email](./projects/temp-email.md)
+
+- **Description:** Temp Email is a lightweight and secure temporary email service that allows users to generate disposable email addresses instantly. It helps protect user privacy, avoid spam, and maintain online security by providing a temporary inbox for receiving emails.  
+- **Technology Used:** ReactJS/NextJS, NodeJS, ExpressJS, WebSockets  
+- **Source Code:** [View](#)  
+- **Live Link:** [View](https://moohmal.com/)  
+- **Detailed view:** [Click](./projects/temp-email.md)  
+- **My Contributions:** As a Full Stack Developer, I worked on:  
+  - Developing a real-time email reception system using WebSockets.  
+  - Creating a responsive and intuitive frontend using ReactJS.  
+  - Setting up a secure backend using NodeJS and ExpressJS to handle email generation and processing.  
+  - Implementing automatic email expiration and cleanup to optimize performance.  
+
+
 ### [College Counseling System](https://college-counselling-alpha.vercel.app/)
 
 - **Description:** Designed and developed a MERN Stack 'college counseling' web application.
