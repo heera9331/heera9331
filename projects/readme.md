@@ -11,6 +11,7 @@ Welcome to my **Projects Repository**! Below is a categorized list of all my pro
   - [🛒 Custom Checkout for WooCommerce](#-custom-checkout-for-woocommerce)
   - [💳 Payment Integration](#-payment-integration)
   - [🖨️ Label Printing Automation](#-label-printing-automation)
+  - [Temp Email](#-temp-email)
 - [💡 Other Projects](#-other-projects)
 - [📬 Contact](#contact)
 
@@ -42,6 +43,8 @@ An automated **label printing solution** that:
 - Automatically assigns a branch and printer information to new orders.
 - Integrates with the **PrintNode API** for seamless print requests.
 - Enhances PDF labels with complete order and printer information.
+
+### 🖨️ [Temp Email](../projects/temp-email.md)
 
 ### 🚀 [Deployment & Server Setup](../projects/hosting-and-deployment.md)
 
