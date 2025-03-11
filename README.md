@@ -33,10 +33,12 @@ Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://w
 
 ### [MadQuick Pvt ltd- Web Development Company](https://madquick.in/)
 
-**Place -** [Sagar, Madhya Pradesh](https://maps.app.goo.gl/YYPxEiTH2B3aiJou9), India · On-site
-**Profile -** Web Developer
-**Employment Type -** Full-Time
-**Date -** May 2024 - Present · 7 mos
+Full-time web developer responsible for designing, developing, and maintaining responsive web applications. Collaborates with cross-functional teams to translate business requirements into scalable solutions, optimizes web performance and SEO, and promptly troubleshoots technical issues to ensure seamless user experience.
+
+- **Place -** [Sagar, Madhya Pradesh](https://maps.app.goo.gl/YYPxEiTH2B3aiJou9), India · On-site
+- **Profile -** Web Developer
+- **Employment Type -** Full-Time
+- **Date -** May 2024 - Present · 7 mos
 
 As a Web Developer at Madquick, I have been responsible for building and maintaining web solutions across various projects.
 
