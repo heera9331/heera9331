@@ -42,7 +42,7 @@ Full-time web developer responsible for designing, developing, and maintaining r
 
 As a Web Developer at Madquick, I have been responsible for building and maintaining web solutions across various projects.
 
-### My role involves:
+### I WORKED ON:
 
 **WordPress Development:** Creating custom themes and plugins, including the development of the 'Madquick Notice' plugin for seamless notice management.
 
