@@ -101,6 +101,22 @@ As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multip
   - Seamless API integration to fetch and manage customer data.
   - State management and UI optimizations for better performance.
 
+## [RoomsNearMe](https://roomsnearme.in/)
+
+RoomsNearMe.in is a streamlined online platform designed to connect landlords and tenants with ease. As the founder and developer, I built this service with a focus on simplicity, speed, and user experience, allowing users to list rental rooms and find accommodations effortlessly.
+
+- Developed using modern web technologies to ensure fast loading and responsiveness across all devices.
+- Integrated a custom booking flow that enables real-time inquiries and smooth tenant-landlord communication.
+- Created admin tools for landlords to manage room listings, view inquiries, and update availability.
+- Focused on SEO optimization and minimal UI to improve discoverability and usability.
+- Ongoing enhancements include user dashboard, progressive search filters, and map-based listings.
+
+- **Technology Used:** ReactJS/NextJS, MongoDB
+- **Live Preview:** [Room Near Me](https://roomsnearme.in)
+
+This project reflects my ability to take an idea from concept to deployment—handling full-stack development, UI/UX design, and product scaling independently.
+
+
 ### [Temp Email](./projects/temp-email.md)
 
 - **Description:** Temp Email is a lightweight and secure temporary email service that allows users to generate disposable email addresses instantly. It helps protect user privacy, avoid spam, and maintain online security by providing a temporary inbox for receiving emails.  
