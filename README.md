@@ -122,7 +122,7 @@ This project reflects my ability to take an idea from concept to deployment—ha
 - **Description:** Temp Email is a lightweight and secure temporary email service that allows users to generate disposable email addresses instantly. It helps protect user privacy, avoid spam, and maintain online security by providing a temporary inbox for receiving emails.  
 - **Technology Used:** ReactJS/NextJS, NodeJS, ExpressJS, WebSockets  
 - **Source Code:** [View](#)  
-- **Live Link:** [View](https://moohmal.com/)  
+- **Live Link:** [View] 
 - **Detailed view:** [Click](./projects/temp-email.md)  
 - **My Contributions:** As a Full Stack Developer, I worked on:  
   - Developing a real-time email reception system using WebSockets.  
