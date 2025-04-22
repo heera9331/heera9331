@@ -8,8 +8,8 @@ This project involved developing a temporary email web application that generate
 
 - Start Date: 07-01-2024
 - Completion Date: 01-01-2025
-- Live Link: https://moohmal.com
-- Live Link2: https://correo-temporall.com
+- Live Link: 
+- Live Link2: 
 
 ## Technologies Used
 
