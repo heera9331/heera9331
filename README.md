@@ -89,6 +89,17 @@ As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multip
 
 ## 👩‍💻 [Projects](https://github.com/heera9331/heera9331/tree/main/projects)
 
+### [US Number Plate Designer](./projects/us-number-plate-designer.md)
+
+- **Description:** This project is a fully custom online number plate builder, developed as a custom WordPress/WooCommerce integration for selling UK vehicle registration plates. The system enables users to design their own legal-compliant front and rear plates with a live preview feature, adhering to UK sizing and character spacing regulations.
+- **Technology Used:** - WordPress (Plugin)m WooCommerce, JavaScript (Live Preview), PHP, AJAX API, WordPress API
+- **Demo:** UKRegPlates.co.uk (Reference) , PlatesExpress.co.uk Number Plate Maker (Reference)
+- **Role** Solo developer
+- **Screenshots** 
+
+Screenshots
+
+
 ### [Squirrel CRM](./projects/squirrel-crm.md)
 
 - **Description:** Squirrel CRM is a robust customer relationship management (CRM) system designed to streamline business workflows, improve customer interactions, and enhance team collaboration.
