@@ -81,7 +81,7 @@ As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multip
 ## Skills
 
 - **Programming Languages:** C, C++, Java, Python, PHP
-- **Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, [WordPress CMS & Its Development](http://wordpress.org/), Next.js, [Payload CMS](https://payloadcms.com/)
+- **Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, [WordPress CMS & Its Development](http://wordpress.org/), Next.js, [Payload CMS](https://payloadcms.com/), Headless CMS (Payload, WordPress)
 - **Programming & Problem-solving:** Data Structures and Algorithms, OOPs, POPs
 - **Operating Systems:** Windows, Ubuntu
 - **Databases:** MongoDB, MySQL
