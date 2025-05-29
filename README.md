@@ -80,8 +80,8 @@ As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multip
 
 ## Skills
 
-- **Programming Languages:** C, C++, Java, Python
-- **Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, [WordPress](http://wordpress.org/), Next.js
+- **Programming Languages:** C, C++, Java, Python, PHP
+- **Development:** HTML, CSS, JavaScript, ReactJS, NodeJS, [WordPress CMS & Its Development](http://wordpress.org/), Next.js, [Payload CMS](https://payloadcms.com/)
 - **Programming & Problem-solving:** Data Structures and Algorithms, OOPs, POPs
 - **Operating Systems:** Windows, Ubuntu
 - **Databases:** MongoDB, MySQL
@@ -186,8 +186,8 @@ This project reflects my ability to take an idea from concept to deployment—ha
 
 ## Hobbies
 
-- Teaching
 - Programming
+- Teaching
 - Cricket
 
 [![Heera's GitHub stats](https://github-readme-stats.vercel.app/api?username=heera9331&show_icons=true&theme=dracula)](https://github.com/heera9331/github-readme-stats)
