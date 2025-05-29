@@ -1,4 +1,4 @@
-# UK Vehicle Registration Plate Customizer for WooCommerce
+# US Number Plate Designer
 
 This project is a fully custom online number plate builder, developed as a custom WordPress/WooCommerce integration for selling UK vehicle registration plates. The system enables users to design their own legal-compliant front and rear plates with a live preview feature, adhering to UK sizing and character spacing regulations.
 
