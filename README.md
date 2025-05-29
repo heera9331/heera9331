@@ -95,10 +95,7 @@ As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multip
 - **Technology Used:** - WordPress (Plugin)m WooCommerce, JavaScript (Live Preview), PHP, AJAX API, WordPress API
 - **Demo:** UKRegPlates.co.uk (Reference) , PlatesExpress.co.uk Number Plate Maker (Reference)
 - **Role** Solo developer
-- **Screenshots** 
-
-Screenshots
-
+- **Screenshots** - [click here](./projects/us-number-plate-designer.md)
 
 ### [Squirrel CRM](./projects/squirrel-crm.md)
 
