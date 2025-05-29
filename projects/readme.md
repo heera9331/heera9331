@@ -44,6 +44,10 @@ An automated **label printing solution** that:
 - Integrates with the **PrintNode API** for seamless print requests.
 - Enhances PDF labels with complete order and printer information.
 
+### 🖨️ [Us Number Plate Designer](./us-number-plate-designer.md)
+
+This project is a fully custom online number plate builder, developed as a custom WordPress/WooCommerce integration for selling UK vehicle registration plates.
+
 ### 🖨️ [Temp Email](../projects/temp-email.md)
 
 ### 🚀 [Deployment & Server Setup](../projects/hosting-and-deployment.md)
